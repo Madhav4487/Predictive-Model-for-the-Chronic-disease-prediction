@@ -1,2 +1,2 @@
 # Predictive-Model-for-the-Chronic-disease-prediction
-This project is done with multi-imputation approach with. the various machine learning algorithms to find the critical factors that cause the chronic disease.
+This project aims to explore the differences using a multiple imputation approach combined with various machine learning algorithms to identify key factors contributing to chronic disease.
